@@ -1,5 +1,0 @@
-xgboost
-scikit-learn
-pandas
-numpy
-yfinance
